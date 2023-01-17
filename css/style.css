@@ -1,0 +1,154 @@
+header{
+    /* position: fixed;
+    left: 0;
+    right: 0; */
+}
+.form-control {
+    padding-right: 299px;
+    background-color: white;
+    border: 3px solid #FE952C;
+}
+.btn-c{
+    background-color: #FE952C;
+    color: white;
+    border: none;
+    width: 205px;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 3px;
+}
+.btn-c:hover{
+    color: rgb(109, 0, 212);
+    background-color: #fe952ca8;
+}
+.logo{
+    height: 59px;
+    width: 208px;
+}
+nav ul{
+    padding-top: 17px;
+}
+nav ul li{
+    list-style: none;
+    padding: 6px;
+}
+
+nav ul li a{
+    padding: 6px 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: 630;
+}
+nav ul li a:hover{
+    color: #1c53f7;
+}
+.container{
+    justify-content: center;
+}
+.shop{
+    color: white !important;
+    background-color: #FE952C;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: 645;
+}
+
+    /* BANNER SECTION */
+.wit{
+    width: 100%;
+}
+
+.ak{
+    width: 68%;
+}
+.ak .card3 img{
+    height: 347px;
+    border-radius: 0;
+    padding-right: 12px;
+}
+.ck{
+    width: 32%;
+    height: 348px;
+}
+.ck .card1 img{
+    height: 168px;
+}
+.ck .card2 img{
+    height: 168px;
+}
+.ck .card1{
+    margin: 0 0 11px 0;
+}
+.ck .card2{
+    margin: 11px 0 0 0;
+}
+
+    /* PRODUCT SECTION */
+.row{
+    width: 1140px;
+    height: 25px;
+}
+.ttt h3{
+    margin-top: 412px;
+    margin-bottom: 18px;
+    color: #414141;
+}
+.card-title{
+    font-size: 13px;
+    color: #525252;
+}
+.card-title h6{
+    font-size: 14px;
+    color: #414141;
+}
+h6 span{
+    text-decoration: line-through;
+}
+.card-body{
+    text-align: center;
+    padding: 0;
+}
+button a{
+    font-size: 12px;
+    text-decoration: none;
+}
+.btn{
+    width: 101px;
+    border-radius: 0;
+    color: white;
+    background-color: #FE952C;
+    font-weight: 700;
+    font-size: 13px;
+}
+.btn:hover{
+    color: white;
+    background-color: #525252;
+}
+.btn span{
+    color: #414141;
+}
+.btn span:hover{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card{
+    border-radius: 0;
+    height: 292px;
+    margin-bottom: 10px;
+}
+.card img{
+    padding: 5px 5px;
+}
